@@ -4,7 +4,7 @@ We will use an ensemble of scikit-learn classification models to learn from Kapl
 We also dropped irrelevant features, handeled Nulls and scaled the data before fetching to classification models.
 
 Models used for analysis are <b> SGD, linearSVC, KNN, Random Forests, MLP(Neural Network).</b>
-![CV_performance_of_various_models_using_train_data.png]
+![Screenshot-1](CV_performance_of_various_models_using_train_data.png)
 
 <b>`Accuracy Score, f1 Score and confusion matrix`</b> have been used in the code to evalue the model performance and determine our model of choice. 
 
